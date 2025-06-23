@@ -22,7 +22,7 @@ This is a minimal React-based To-Do List application that allows users to add an
 - If no text is entered and **Add** is clicked, the message **"Please enter a Task!"** is shown.
 - To delete a task, **click directly on the task item**, and it will be removed from the list.
 - Styled using a separate CSS file.
- ![To-Do List Screenshot](ReactView.png)
+ ![To-Do List Screenshot](View.png)
 
 ---
 
